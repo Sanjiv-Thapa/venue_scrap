@@ -1,6 +1,5 @@
 # weddingspot site scraper
-This is a scrapy and selenium based web scraper to extract the wedding venue details. It extracts the venue name,phone,highlights,capacity and address from venue detail page.
----
+This is a scrapy and selenium based web scraper to extract the wedding venue details.The site is[link](https://www.wedding-spot.com/wedding-venues/?pr=new%20jersey&r=new%20jersey%3anorth%20jersey&r=new%20jersey%3aatlantic%20city&r=new%20jersey%3ajersey%20shore&r=new%20jersey%3asouth%20jersey&r=new%20jersey%3acentral%20jersey&r=new%20york%3along%20island&r=new%20york%3amanhattan&r=new%20york%3abrooklyn&r=pennsylvania%3aphiladelphia&sr=1)
 ## what it scrapes 
 for each venue, it collects
 - URL of the venue page
